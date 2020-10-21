@@ -35,7 +35,17 @@ class Solution {
             }
             map.put(nums[i],i);
         }
-        return 0;
+        return -1;
+    }
+
+    public int findRepeatNumber1(int[] nums) {
+        int[] d = new int[nums.length];
+        for (int n : nums) {
+            if (++d[n] > 1) {
+                return n;
+            }
+        }
+        return -1;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
