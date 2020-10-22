@@ -65,6 +65,22 @@ class Solution {
         }
         return list.size();
     }
+
+    public static int removeDuplicates1(int[] nums) {
+        if (null == nums || nums.length == 0) {
+            return 0;
+        }
+        int i = 0;
+        int j = 1;
+        while (j < nums.length) {
+            if (nums[i] != nums[j]) {
+                nums[i + 1] = nums[j];
+                i++;
+            }
+            j++;
+        }
+        return i + 1;
+    }
 }
 //leetcode submit region end(Prohibit modification and deletion)
 
