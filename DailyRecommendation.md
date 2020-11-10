@@ -62,12 +62,16 @@
 > 1.两数之和 https://leetcode-cn.com/problems/two-sum/
 
 20 .1107
+> 15.三数之和 https://leetcode-cn.com/problems/3sum/
 
 21 .1108
+> 面试题 17.09. 第 k 个数 https://leetcode-cn.com/problems/get-kth-magic-number-lcci/
 
 22 .1109
+> 46.全排列 https://leetcode-cn.com/problems/permutations/
 
 23 .1110
+> 70.爬楼梯 https://leetcode-cn.com/problems/climbing-stairs/
 
 24 .1111
 
