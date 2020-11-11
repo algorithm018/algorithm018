@@ -23,7 +23,6 @@ def BFS(graph, start, end):
 
 
  ```java
-# Python
 //Java
 public class TreeNode {
     int val;
