@@ -77,12 +77,16 @@
 > 122.买卖股票的最佳时机 II https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/
 
 25 .1112
+> 860.柠檬水找零  https://leetcode-cn.com/problems/lemonade-change/description/
 
 26 .1113
+> 200.岛屿数量 https://leetcode-cn.com/problems/number-of-islands/
 
 27 .1114
+> 367.有效的完全平方数 https://leetcode-cn.com/problems/valid-perfect-square/
 
 28 .1115
+> 169.多数元素 https://leetcode-cn.com/problems/majority-element/description/
 
 29 .1116
 
