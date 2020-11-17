@@ -76,3 +76,52 @@
 困难 ：
 * 单词接龙 II （微软、亚马逊、Facebook 在半年内面试中考过） https://leetcode-cn.com/problems/word-ladder-ii/description/
 * 跳跃游戏 II （亚马逊、华为、字节跳动在半年内面试中考过） https://leetcode-cn.com/problems/jump-game-ii/
+
+
+## 第五周
+考试
+
+
+## 第六周
+中等 ：
+* 最小路径和（亚马逊、高盛集团、谷歌在半年内面试中考过）https://leetcode-cn.com/problems/minimum-path-sum/
+* 解码方法（亚马逊、Facebook、字节跳动在半年内面试中考过） https://leetcode-cn.com/problems/decode-ways/
+* 最大正方形（华为、谷歌、字节跳动在半年内面试中考过）https://leetcode-cn.com/problems/maximal-square/
+* 任务调度器（Facebook 在半年内面试中常考） https://leetcode-cn.com/problems/task-scheduler/
+* 回文子串（Facebook、苹果、字节跳动在半年内面试中考过） https://leetcode-cn.com/problems/palindromic-substrings/
+
+困难 ：
+* 最长有效括号（字节跳动、亚马逊、微软在半年内面试中考过） https://leetcode-cn.com/problems/longest-valid-parentheses/
+* 编辑距离（字节跳动、亚马逊、谷歌在半年内面试中考过） https://leetcode-cn.com/problems/edit-distance/
+* 矩形区域不超过 K 的最大数值和（谷歌在半年内面试中考过） https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/
+* 青蛙过河（亚马逊、苹果、字节跳动在半年内面试中考过）https://leetcode-cn.com/problems/frog-jump/
+* 分割数组的最大值（谷歌、亚马逊、Facebook 在半年内面试中考过）https://leetcode-cn.com/problems/split-array-largest-sum/
+* 学生出勤记录 II （谷歌在半年内面试中考过）https://leetcode-cn.com/problems/student-attendance-record-ii/
+* 最小覆盖子串（Facebook 在半年内面试中常考）https://leetcode-cn.com/problems/minimum-window-substring/
+* 戳气球（亚马逊在半年内面试中考过）https://leetcode-cn.com/problems/burst-balloons/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

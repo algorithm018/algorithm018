@@ -92,6 +92,7 @@
 > 127.单词接龙 https://leetcode-cn.com/problems/word-ladder/description/
 
 30 .1117
+> 1.两数之和 https://leetcode-cn.com/problems/two-sum/description/
 
 31 .1118
 
