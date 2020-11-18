@@ -95,6 +95,7 @@
 > 1.两数之和 https://leetcode-cn.com/problems/two-sum/description/
 
 31 .1118
+>  874.模拟行走机器人 https://leetcode-cn.com/problems/walking-robot-simulation/description/
 
 32 .1119
 
